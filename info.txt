@@ -3,4 +3,3 @@ Bangalore
 JP Morgan Chase
 Architect
 Git, Jenkins, Docker & Kubernetes.
-Some Changes 
